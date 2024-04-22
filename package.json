@@ -8,19 +8,19 @@
     "pre": "vite -c ./vite.pre.config.ts --host 127.0.0.1 --port 48501"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "element-plus": "^2.2.0",
-    "moment": "^2.29.4",
-    "vue": "^3.2.25",
-    "vue-router": "^4.0.15",
-    "webpack": "^5.0.0"
+    "axios": "^0.28.1",
+    "element-plus": "^2.7.1",
+    "moment": "^2.30.1",
+    "vue": "^3.4.23",
+    "vue-router": "^4.3.2",
+    "webpack": "^5.91.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.3.1",
-    "less": "^4.1.3",
-    "less-loader": "^11.1.0",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.7",
-    "vue-tsc": "^0.34.7"
+    "@vitejs/plugin-vue": "^2.3.4",
+    "less": "^4.2.0",
+    "less-loader": "^11.1.4",
+    "typescript": "^4.9.5",
+    "vite": "^2.9.18",
+    "vue-tsc": "^0.34.17"
   }
 }
